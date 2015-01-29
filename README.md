@@ -1,10 +1,3 @@
-## Contents
-
-- [Setting Up PHPSpec With Laravel][setting-up-phpspec-with-laravel]
-- [Creating A PHPSpec YML File][creating-a-phpspec-yml-file]
-- [Updating The Composer.json File][updating-the-composerjson-file]
-- [Auto Testing With Gulp][auto-testing-with-gulp]
-
 ## Setting Up PHPSpec With Laravel
 
 First of all, include PHPSpec in your project by calling this command:
